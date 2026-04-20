@@ -24,8 +24,8 @@ I'm open to discussions, collaborations, and internships.
 ## &nbsp;GitHub Statistics
 <br/>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amanxgiri&count_private=true&theme=onedark&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanxgiri&theme=onedark" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amanxgiri&count_private=true&theme=onedark&show_icons=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=amanxgiri&theme=onedark" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanxgiri&layout=compact&theme=onedark&langs_count=8" alt="Top Languages" />
