@@ -9,12 +9,12 @@ I try to build with it. It keeps things interesting for me.
 Right now I'm deeply into AI, exploring Deep Learning, CNNs, RNNs, GNNs and a lot more.
 There is always something new to learn and it genuinely fascinates me. What makes it even more exciting
 is seeing the math I studied come to life in these models. Linear algebra, calculus, probability,
-statistics — during lectures I kept wondering where any of this would ever be useful.
+statistics, during lectures I kept wondering where any of this would ever be useful.
 Learning about AI answered that question. Things started clicking in a way they hadn't before.
 
 I'm also exploring Quantum Computing on the side, and what drew me to it was a deep love for mathematics
-and physics — Quantum Computing is where those two meet. It genuinely fascinates me. There's something
-about it that feels almost unbelievable — like it shouldn't work the way it does, but it does.
+and physics, Quantum Computing is where those two meet. It genuinely fascinates me. There's something
+about it that feels almost unbelievable, like it shouldn't work the way it does, but it does.
 The more I learn, the more I find myself thinking: is this really how things work in the real world?
 
 I'm open to discussions, collaborations, and internships.
