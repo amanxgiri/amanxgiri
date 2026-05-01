@@ -2,7 +2,7 @@
 ---
 I'm a Computer Science and Engineering student at Manipal Institute of Technology, Bengaluru.
 
-What drew me to Computer Science is simple, it gives me the freedom to build solutions to real-world problems.
+What drew me to Computer Science is that it gives me the freedom to build solutions to real-world problems.
 That's what makes it fun. I take a practical approach to learning; as soon as I pick up something new,
 I try to build with it. It keeps things interesting for me.
 
