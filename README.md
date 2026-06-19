@@ -104,7 +104,7 @@ Always up for a good conversation about AI, math, quantum computing, projects, o
 
 <div align="center">
 
-<h2>Curious what I'm building?</h2>
+<h3>Curious what I'm building?</h3>
 
 Below are some of my projects that you can explore. I think you'll find them interesting.
 
