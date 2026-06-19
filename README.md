@@ -12,7 +12,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/amanxgiri">
-    <img src="https://img.shields.io/badge/LinkedIn-Aman%20Giri-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Aman%20Giri-111111?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=000000" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/amanxgiri">
@@ -103,3 +103,13 @@ I'm open to discussions, collaborations, and internships.
 Always up for a good conversation about AI, math, quantum computing, projects, or opportunities to build something useful.
 
 You can reach me on [LinkedIn](https://linkedin.com/in/amanxgiri), or check out what I'm building here on GitHub.
+
+---
+
+<div align="center">
+
+### Curious what I'm building?
+
+Below are some of my projects that you can explore. I think you'll find them interesting.
+
+</div>
