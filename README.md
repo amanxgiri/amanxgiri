@@ -40,8 +40,6 @@ and physics, Quantum Computing is where those two meet. It genuinely fascinates 
 about it that feels almost unbelievable, like it shouldn't work the way it does, but it does.
 The more I learn, the more I find myself thinking: is this really how things work in the real world?
 
-I'm open to discussions, collaborations, and internships.
-
 Always up for a good conversation about AI, math, quantum computing, projects, or opportunities to build something useful.
 
 ---
