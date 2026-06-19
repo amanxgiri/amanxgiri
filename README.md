@@ -42,6 +42,8 @@ The more I learn, the more I find myself thinking: is this really how things wor
 
 I'm open to discussions, collaborations, and internships.
 
+Always up for a good conversation about AI, math, quantum computing, projects, or opportunities to build something useful.
+
 ---
 
 ## Current Stack
@@ -97,12 +99,6 @@ I'm open to discussions, collaborations, and internships.
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanxgiri&bg_color=000000&color=E8E8E8&line=26A641&point=39D353&area=true&area_color=0E4429&hide_border=true" alt="Aman Giri contribution graph" />
 </div>
-
-## &nbsp;Let's Connect!
-
-Always up for a good conversation about AI, math, quantum computing, projects, or opportunities to build something useful.
-
-You can reach me on [LinkedIn](https://linkedin.com/in/amanxgiri), or check out what I'm building here on GitHub.
 
 ---
 
